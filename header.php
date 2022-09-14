@@ -27,14 +27,14 @@
 </head>
 
 
-<body style="font-family: 'Josefin Sans', sans-serif;">
+<body style="font-family: 'JetBrains Mono', monospace;">
 <div id="top"> <!---Top Starts---->
 <div class="container"> <!---Container Starts---->
 <div class="col-md-6 offers"> <!---col-md-6 Starts---->
 <a href="#" class="btn btn-success btn-sm">
 Welcome to Grab It
 </a>
-<a href="#">Shopping Cart Total Price: INR 100, Total items 2</a>
+<a href="#">Cart Total Price: INR 100, Total items 2</a>
 </div><!---col-md-6 Ends---->
 
 <div class="col-md-6">

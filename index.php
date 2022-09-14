@@ -43,8 +43,8 @@
     <div class="container">
         <div class="navbar-header"><!---navbar header Starts---->
             <a href="index.php" class="navbar-brand home">
-                <img src="images/logo.png" style="width:150px;height:150px; padding-bottom:100px; "alt="GrabIT" class="hidden-xs">
-                <img src="images/logo-small.png" style="width:100px;height:50px;" alt="GrabIT" class="visible-xs">
+                <img src="admin/products/logo.png" style="width:150px;height:150px; padding-bottom:100px; "alt="GrabIT" class="hidden-xs">
+                <img src="admin/products/logo.png" style="width:100px;height:50px;" alt="GrabIT" class="visible-xs">
             </a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
                 <span class="sr-only">Toggle Navigation</span>

@@ -38,6 +38,7 @@ body {
 
 #top a{
     color: #ffffff;
+    text-decoration: none;
 }
 
 #top ul.menu {
