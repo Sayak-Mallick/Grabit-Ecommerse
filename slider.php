@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Product Slider</title>
+    <title>Product Slider</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -33,7 +33,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-1.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-2.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-3.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-4.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-5.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-2">
                             <a href="#"><img src="admin/products/product-6.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
                             <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
-                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i>1,724</b>
                             <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
