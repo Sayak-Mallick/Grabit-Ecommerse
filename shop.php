@@ -1,5 +1,5 @@
 <?php 
-include('header.php')
+include('includes/header.php')
 ?>
 
 
@@ -191,6 +191,6 @@ include('sidebar.php');
 
 <!-----Footer Start ----->
 <?php
-include('footer.php');
+include('include/footer.php');
 ?>
 <!-----Footer Ends ----->

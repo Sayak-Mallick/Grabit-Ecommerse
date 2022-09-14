@@ -12,7 +12,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="shopstyle.css">
+    <link rel="stylesheet" type="text/css" href="css/shopstyle.css">
 </head>
 <body>
 
@@ -63,7 +63,7 @@
 
 
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-<script type="text/javascript" src="shopscript.js"></script>
+<script type="text/javascript" src="js/shopscript.js"></script>
 
 </body>
 </html>
