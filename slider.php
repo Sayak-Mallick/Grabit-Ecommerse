@@ -40,43 +40,46 @@
 
                     <div class="item">
                         <div class="col-xs-12 col-sm-6 col-md-2">
-                            <a href="#"><img src="https://images.unsplash.com/photo-1524010349062-860def6649c3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e725946a3f177dce83a705d4b12019c2&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
-                            <h4 class="text-center">MAYORAL KOŠULJA</h4>
-                            <h5 class="text-center">800 TK</h5>
+                            <a href="#"><img src="admin/products/product-2.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
+                            <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="col-xs-12 col-sm-6 col-md-2">
-                            <a href="#"><img src="https://images.unsplash.com/photo-1511556820780-d912e42b4980?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=04aebe9a22884efa1a5f61e434215597&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
-                            <span class="badge">10%</span>
-                            <h4 class="text-center">PANTALONE TERI 2</h4>
-                            <h5 class="text-center">4000,00 TK</h5>
-                            <h6 class="text-center">5000,00 TK</h6>
+                            <a href="#"><img src="admin/products/product-3.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
+                            <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="col-xs-12 col-sm-6 col-md-2">
-                            <a href="#"><img src="https://images.unsplash.com/photo-1531925470851-1b5896b67dcd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=91fe0ca1b5d72338a8aac04935b52148&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
-                            <h4 class="text-center">CVETNA HALJINA</h4>
-                            <h5 class="text-center">4000,00 RSD</h5>
+                            <a href="#"><img src="admin/products/product-4.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
+                            <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="col-xs-12 col-sm-6 col-md-2">
-                            <a href="#"><img src="https://images.unsplash.com/photo-1516961642265-531546e84af2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=74065eec3c2f6a8284bbe30402432f1d&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
-                            <h4 class="text-center">MAJICA FOTO</h4>
-                            <h5 class="text-center">40,00 TK</h5>
+                            <a href="#"><img src="admin/products/product-5.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
+                            <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="col-xs-12 col-sm-6 col-md-2">
-                            <a href="#"><img src="https://images.unsplash.com/photo-1532086853747-99450c17fa2e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=61a42a11f627b0d21d0df757d9b8fe23&auto=format&fit=crop&w=500&q=60" class="img-responsive center-block"></a>
-                            <h4 class="text-center">MAJICA MAYORAL</h4>
-                            <h5 class="text-center">100,00 TK</h5>
+                            <a href="#"><img src="admin/products/product-6.jpg" style="width:230px;height:175px;" class="img-responsive center-block"></a>
+                            <a href="#"> <h4><b>PUMA</b><br>Men's Regular T-Shirt</h4></a>
+                            <del style="color:#FF4848;"> <i class="fas fa-rupee-sign"></i> 2,499</del><b style="color: seagreen;"> <i class="fas fa-rupee-sign"></i> 1,724</b>
+                            <br><p  ><i class="fas fa-rupee-sign"></i> 775 (31% OFF)<br>FREE Delivery by Grabit</p>
                         </div>
                     </div>
 

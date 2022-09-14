@@ -19,14 +19,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
 </head>
-<body style="font-family: 'Josefin Sans', sans-serif;">
+<body style="font-family: 'JetBrains Mono', monospace;">
 <div id="top"> <!---Top Starts---->
     <div class="container"> <!---Container Starts---->
         <div class="col-md-6 offers"> <!---col-md-6 Starts---->
             <a href="#" class="btn btn-success btn-sm">
                 WEL-COME TO GRAB-IT
             </a>
-            <a href="#">Shopping Cart Total Price: INR 100, Total items 2</a>
+            <a href="#">Cart Total Price: INR 100, Total items 2</a>
         </div><!---col-md-6 Ends---->
 
         <div class="col-md-6">
@@ -387,7 +387,8 @@
         <?php
         include('brand.php')
         ?>
-
+<br>
+<br>
         <!-----Slider Start ----->
         <?php
         include('slider.php');
