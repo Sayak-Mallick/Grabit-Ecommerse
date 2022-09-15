@@ -191,6 +191,6 @@ include('sidebar.php');
 
 <!-----Footer Start ----->
 <?php
-include('include/footer.php');
+include('includes/footer.php');
 ?>
 <!-----Footer Ends ----->
