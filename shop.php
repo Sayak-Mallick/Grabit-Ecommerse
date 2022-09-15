@@ -175,7 +175,7 @@ include('sidebar.php');
 <center>
 
 <ul class="pagination">
-    <li><a href="shop.php">START</a></li>
+    <li><a href="shop.php">START</a></li>     
     <li><a href="shop.php">2</a></li>
     <li><a href="shop.php">3</a></li>
     <li><a href="shop.php">4</a></li>

@@ -26,7 +26,7 @@
             <a href="#" class="btn btn-success btn-sm">
                 WEL-COME TO GRAB-IT
             </a>
-            <a href="#">Cart Total Price: INR 100, Total items 2</a>
+            <a href="#">Cart Total Price: INR 100, Total items: 2</a>
         </div><!---col-md-6 Ends---->
 
         <div class="col-md-6">

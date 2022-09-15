@@ -34,7 +34,7 @@
 <a href="#" class="btn btn-success btn-sm">
 Welcome to Grab It
 </a>
-<a href="#">Cart Total Price: INR 100, Total items 2</a>
+<a href="#">Cart Total Price: INR 100, Total items: 2</a>
 </div><!---col-md-6 Ends---->
 
 <div class="col-md-6">
